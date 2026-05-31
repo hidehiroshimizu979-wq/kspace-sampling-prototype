@@ -1,0 +1,27 @@
+# data
+data/
+*.nii
+*.nii.gz
+*.dcm
+*.DCM
+*.mgz
+*.mgh
+
+# outputs
+outputs/
+derived/
+results/
+*.npy
+*.npz
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.venv
+env/
+envs/
+
+# notebooks
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pandas
+nibabel
+scikit-image
+mri-nufft[finufft]
