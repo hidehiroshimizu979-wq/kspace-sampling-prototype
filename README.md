@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 k-space sampling prototype
 
 This repository contains a prototype image-derived k-space sampling simulation for comparing radial and Cartesian undersampling under synthetic noise and motion conditions.
@@ -70,3 +71,6 @@ How to run (examples)
 Notes
 - The scripts expect numeric arguments (matrix size, number of samples) and paths to NIfTI files. Edit the example commands to match your local layout.
 - Do NOT place raw DICOM or subject-identifiable NIfTI files into this git repository. Use a separate data bundle and point the scripts at a local `data/` folder.
+=======
+# kspace-sampling-prototype
+>>>>>>> origin/main
